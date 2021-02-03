@@ -1,0 +1,62 @@
+#heading>tr>th>img {
+
+    width: 20px;
+}
+
+.form-group.required .control-label:after {
+    content: "*";
+    color: red;
+}
+
+label {
+    display: block;
+
+}
+
+.form-control {
+    background-color: #E9ECEF;
+}
+
+.table-row {
+    background-color: #F2F2F2;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+input,
+select,
+option,
+textarea {
+    background-color: #E9ECEF;
+
+
+}
+
+input :placeholder-shown {
+    color: #9FB6D0;
+}
+
+* {
+    font-family: inherit;
+}
+
+label {
+
+    font-weight: 500;
+    color: gray;
+}
+
+select {
+    width: 176px;
+    margin: 3px;
+    height: 30px;
+}
+
+input#start {
+    width: 176px;
+    margin: 3px;
+    height: 30px;
+}
